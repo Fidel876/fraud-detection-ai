@@ -17,7 +17,14 @@ An AI-based system to detect fraudulent financial transactions using anomaly det
 - Isolation Forest (unsupervised learning)
 
 ## Dataset
-- Credit Card Fraud Detection Dataset (Kaggle)
+- This project uses the **Credit Card Fraud Detection Dataset** from Kaggle.
+
+- Dataset link:
+  https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+> Note: The dataset is not included in this repository because it is large.
+> Download it from Kaggle and place it inside the `data/` folder before running the project.
+)
 
 ## How to Run
 pip install -r requirements.txt
